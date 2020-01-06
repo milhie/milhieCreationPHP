@@ -1,0 +1,84 @@
+
+
+
+
+
+
+/*Corps page accueil*/
+
+.introduction
+{
+font-size: 1em;
+}
+
+
+
+.bijoux, .arbres_de_vie, .decorations_murales_chambre_enfant, .decos_mariage, .pieges_reves, .autresDecos
+{
+    border: solid black;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;       
+
+}
+
+.bijoux p, .arbres_de_vie p, .decorations_murales_chambre_enfant p, .decos_mariage p, .pieges_reves p, .autresDecos p
+{
+    
+    position: relative;
+    top: 190px;
+    
+    padding-top: 15px;
+    padding-left: 4px;
+}
+
+.bijoux a, .arbres_de_vie a, .decorations_murales_chambre_enfant a, .decos_mariage a, .pieges_reves a, .autresDecos a
+{
+    color: white;
+}
+.bijoux
+{
+    
+    width: 259px;
+    height: 259px;
+    background: url(images/bague259px.jpeg) center repeat;
+}
+
+.arbres_de_vie
+{
+
+    width: 259px;
+    height: 259px;
+    background: url(images/arbres/arbrevie259.jpeg) center repeat;
+}
+
+.decorations_murales_chambre_enfant
+{
+    color: black;
+    width: 259px;
+    height: 259px;
+    background: url(images/decosMurales/decotymeo259.jpeg) center repeat;
+}
+
+.decos_mariage
+{
+    width: 259px;
+    height: 259px;
+    background: url(https://i.servimg.com/u/f19/18/20/68/28/th/img_2041.jpg) center repeat;
+}
+
+.pieges_reves
+{
+    width: 259px;
+    height: 259px;
+    background: url(images/piegereve259.jpeg) center repeat;
+}
+
+.autresDecos
+{
+    width: 259px;
+    height: 259px;
+    background: url(https://i.servimg.com/u/f19/18/20/68/28/th/img_2050.jpg) center repeat;
+}
+
+

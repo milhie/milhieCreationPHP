@@ -1,0 +1,63 @@
+mark
+{
+	font-family: 'calligraffitiregular', serif;
+	font-size: 1.5em;
+	text-decoration: underline;
+	background-color: none;
+}
+#page_produit ul
+{
+	display: flex;
+	flex-direction: row;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+
+nav ul a
+{
+    color: white;
+    padding-bottom: 3px;
+}
+
+nav ul a:hover
+{
+	color: #760001;
+    border-bottom: 3px solid #760001;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+nav ul li
+{
+	text-align: center;
+}
+.product
+{
+	border: solid black;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 15px;		
+	background-color: grey;
+}
+
+.product img
+{
+	width:100%;
+	border: solid black 2px;
+}
+section
+{
+	display: flex;
+	flex-direction: column;
+}
+
+
+
+span
+{
+	font-size: 1.3em;
+	text-decoration: underline;
+}
+

@@ -1,0 +1,97 @@
+nav ul
+{
+	display: flex;
+	flex-direction: row;
+	list-style: none;
+	text-decoration: none;
+}
+
+nav ul a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+nav ul a
+{
+    color: white;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+
+
+#bracelets_manchettes, #bagues, #boucles, #bijoux_mariage, #colliers, #parures
+{
+	border: solid black;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 15px;		
+
+}
+
+#bracelets_manchettes
+{
+
+
+	width: 259px;
+	height: 259px;
+	background: url(images/bracelet259px.jpeg) center no-repeat;
+	
+}
+
+
+
+#bracelets_manchettes p, #bagues p, #boucles p, #bijoux_mariage p, #colliers p, #parures p
+{
+	
+	font-weight: bold;
+	position: relative;
+    top: 190px;
+    
+    padding-top: 15px;
+    padding-left: 4px;
+    
+    
+	
+}
+
+#bagues
+{
+	width: 259px;
+	height: 259px;
+	background: url(images/bague259px.jpeg) center no-repeat;
+	
+}
+
+#boucles
+{
+	width: 259px;
+	height: 259px;
+	background: url(images/boucles.jpeg) center no-repeat;
+
+
+}
+
+#bijoux_mariage
+{
+	width: 259px;
+	height: 259px;
+	background: url(images/bijoux_mariage366.jpeg) center no-repeat;
+
+}
+
+#colliers
+{
+	width: 259px;
+	height: 259px;
+	background: url(images/collier.jpeg) center no-repeat;
+
+}
+
+#parures
+{
+	width: 259px;
+	height: 259px;
+	background: blue;
+}
