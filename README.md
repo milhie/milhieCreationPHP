@@ -1,2 +1,2 @@
 # milhieCreationPHP
-site milhie creation en version pdf
+site milhie creation en version php
